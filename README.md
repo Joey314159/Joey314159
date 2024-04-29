@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joel Alvarado</h1>
 <h3 align="center">A passionate backend developer from San Diego</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joey314159" alt="joey314159" /></a> </p>
+<p align="left"> Hi </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Joey314159](https://github.com/Joey314159)
 
