@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Joel<br>CS grad building backend systems with Python and FastAPI. Daily Arch Linux user who enjoys understanding how things work at every layer.<br><br>🐧 Currently customizing my Arch-based Linux environment in Omarchy distro<br>🧠 Actively grinding Data Structures & Algorithms<br>🐍 Writing Python with a focus on performance and clean architecture<br>🔧 Weekend mechanic restoring an 84 BMW<br><br>I love understanding how things work, whether it's a hash map, a window manager, or an engine.
+👋 Hi, I'm Joel<br>A CS grad building backend systems with Python and FastAPI. Daily Arch Linux user who enjoys understanding how things work at every layer.<br><br>🐧 Currently customizing my Arch-based Linux environment in Omarchy distro<br>🧠 Actively grinding Data Structures & Algorithms<br>🐍 Writing Python with a focus on performance and clean architecture<br>🔧 Weekend mechanic restoring an 84 BMW<br><br>I love understanding how things work, whether it's a hash map, a window manager, or an engine.
 
 
 ## 🌐 Socials:
